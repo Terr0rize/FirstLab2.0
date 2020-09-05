@@ -1,0 +1,13 @@
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\bin\Debug\netcoreapp3.1\SystemCafedra.exe
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\bin\Debug\netcoreapp3.1\SystemCafedra.deps.json
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\bin\Debug\netcoreapp3.1\SystemCafedra.runtimeconfig.json
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\bin\Debug\netcoreapp3.1\SystemCafedra.runtimeconfig.dev.json
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\bin\Debug\netcoreapp3.1\SystemCafedra.dll
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\bin\Debug\netcoreapp3.1\SystemCafedra.pdb
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\obj\Debug\netcoreapp3.1\SystemCafedra.csprojAssemblyReference.cache
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\obj\Debug\netcoreapp3.1\SystemCafedra.AssemblyInfoInputs.cache
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\obj\Debug\netcoreapp3.1\SystemCafedra.AssemblyInfo.cs
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\obj\Debug\netcoreapp3.1\SystemCafedra.csproj.CoreCompileInputs.cache
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\obj\Debug\netcoreapp3.1\SystemCafedra.dll
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\obj\Debug\netcoreapp3.1\SystemCafedra.pdb
+C:\Users\Liora\source\repos\SystemCafedra\SystemCafedra\obj\Debug\netcoreapp3.1\SystemCafedra.genruntimeconfig.cache
